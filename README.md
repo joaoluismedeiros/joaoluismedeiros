@@ -18,6 +18,7 @@ Sou Arquiteto de Software e Desenvolvedor ABAP com mais de 8 anos de experiênci
 Este repositório apresenta um exemplo prático de um programa ABAP estruturado no padrão MVC (Model-View-Controller), utilizando a tabela padrão SPFLI.
 
 ### [ABAP_AGENDA](https://github.com/joaoluismedeiros/ABAP_AGENDA)
+Exemplo de uso de containers de texto
 ---
 ## 🚀 Sobre mim
 
