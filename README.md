@@ -20,6 +20,10 @@ Este repositório apresenta um exemplo prático de um programa ABAP estruturado 
 ### [ABAP_AGENDA](https://github.com/joaoluismedeiros/ABAP_AGENDA)
 Exemplo de uso de containers de texto
 
+### [ABAP_VARIANTE_ALV](https://github.com/joaoluismedeiros/ABAP_VARIANTE_ALV)
+Este repositório apresenta um exemplo de programa ABAP com ALV simples utilizando o padrão MVC (Model-View-Controller).
+O principal diferencial deste exemplo é a possibilidade de selecionar o Layout de exibição do ALV diretamente na tela de seleção, juntamente com os filtros de entrada.
+
 ---
 ## 🚀 Sobre mim
 
